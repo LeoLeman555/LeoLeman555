@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+## About Me
+
+- I'm a student learning computer science through real-world projects.
+- I have strong skills in Python, and I'm currently learning JavaScript and web development while exploring the GitHub ecosystem.
+- I enjoy building fun projects that are technically challenging.
+
 ## Skills
 
 <div align="center">
@@ -15,7 +21,16 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoleman555&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoleman555&layout=compact&show_icons=true&theme=default" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=leoleman555&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoleman555&layout=compact&show_icons=true&theme=default" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
