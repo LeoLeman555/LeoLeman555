@@ -27,7 +27,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=leoleman555&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoleman555&layout=compact&show_icons=true&theme=default" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoLeman555&layout=compact&show_icons=true&theme=default" alt="Top Languages" />
       </td>
     </tr>
   </table>
