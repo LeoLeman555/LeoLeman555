@@ -7,16 +7,17 @@
 ## About Me
 
 - I'm a student learning computer science through real-world projects.
-- I have strong skills in Python, and I'm currently learning JavaScript and web development while exploring the GitHub ecosystem.
+- I have strong skills in Python and the GitHub ecosystem, an understanding of JavaScript, and I am currently learning mobile development with React Native.
 - I enjoy building fun projects that are technically challenging.
 
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,md" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,md,ts,react" alt="Languages" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,raspberrypi" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,raspberrypi,linux,vim" alt="Tools" />
 </div>
+
 
 ## GitHub Stats
 
@@ -24,14 +25,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=leoleman555&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoleman555&theme=default" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoLeman555&layout=compact&show_icons=true&theme=default" alt="Top Languages" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leoleman555&theme=default" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LeoLeman555.LeoLeman555" alt="View Counter"/>
